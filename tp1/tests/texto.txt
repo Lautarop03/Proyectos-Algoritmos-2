@@ -1,0 +1,35 @@
+Prueba 01... Archivo del padrón no existe
+OK.
+
+Prueba 02... Ingresos de DNI válidos e inválidos
+OK.
+
+Prueba 03... Prueba de volumen de ingreso de DNIs -- Son almacenados y buscados eficientemente
+OK.
+
+Prueba 04... Un ingreso y algunos votos de mismo votante
+OK.
+
+Prueba 05... Varios ingresos, con votos en blanco e impugnados
+OK.
+
+Prueba 06... Deshacer
+OK.
+
+Prueba 07... Completo con un día de correcto orden democrático sin errores
+OK.
+
+Prueba 08... Pruebas completas, similares a 07 pero con errores
+OK.
+
+Prueba 09... Aleatoreas pequeñas
+OK.
+
+Prueba 10... Prueba de volumen con todo
+OK.
+
+Prueba sin parámetros
+OK.
+
+Prueba falando parámetros
+OK.
